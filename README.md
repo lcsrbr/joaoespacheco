@@ -92,8 +92,8 @@
 
 <div align="center">
   <a href="https://github.com/joaoespacheco">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=joaoespacheco&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=DEG,000080,4682B4&text_color=F8F8FF"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoespacheco&layout=compact&langs_count=7&theme=dark&bg_color=DEG,000080,4682B4&text_color=F8F8FF"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=joaoespacheco&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=DEG,000080,4682B4&text_color=F8F8FF"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoespacheco&layout=compact&langs_count=7&theme=dark&bg_color=DEG,000080,4682B4&text_color=F8F8FF"/>
 </div>
 
 <div align="center">
