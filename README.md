@@ -77,17 +77,23 @@
 
 <h3>Onde me encontrar:</h3>
 <div align="center">
-  <a href="https://www.instagram.com/o_joaoemanuel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joaoe.pacheco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaoespacheco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+	<a href="https://www.instagram.com/o_joaoemanuel" target="_blank">
+		<img height="30em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+	</a>
+  <a href = "mailto:joaoe.pacheco@gmail.com">
+	  <img height="30em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+	</a>
+  <a href="https://www.linkedin.com/in/joaoespacheco" target="_blank">
+	  <img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+	</a> 
 </div>
 
 ##
 
 <div align="center">
   <a href="https://github.com/joaoespacheco">
-  <img height="160em" width="40%" src="https://github-readme-stats.vercel.app/api?username=joaoespacheco&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=DEG,000080,4682B4&text_color=F8F8FF"/>
-  <img height="160em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoespacheco&layout=compact&langs_count=7&theme=dark&bg_color=DEG,000080,4682B4&text_color=F8F8FF"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=joaoespacheco&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=DEG,000080,4682B4&text_color=F8F8FF"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoespacheco&layout=compact&langs_count=7&theme=dark&bg_color=DEG,000080,4682B4&text_color=F8F8FF"/>
 </div>
 
 <div align="center">
@@ -98,7 +104,9 @@
     
 <div align="center">
     <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-	    <img src="https://komarev.com/ghpvc/?username=joaoespacheco">
-	</a>
-	<a href="https://github.com/joaoespacheco?tab=followers"><img src="https://img.shields.io/github/followers/joaoespacheco?      label=Followers&style=social" alt="GitHub Badge"></a>
+	    <img height="30em" src="https://komarev.com/ghpvc/?username=joaoespacheco">
+    </a>
+    <a href="https://github.com/joaoespacheco?tab=followers">
+	    <img height="30em" src="https://img.shields.io/github/followers/joaoespacheco?      label=Followers&style=social" alt="GitHub Badge">
+    </a>
 </div> 
