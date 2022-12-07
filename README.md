@@ -3,7 +3,7 @@
 <li>🚀 Em transição de carreira para a área de técnologia</li>
 <li>👨🏼‍🎓 Estudante de desenvolvimento web pela Trybe</li>
 <li>👻 Adoro jogos de estratégia, ler livros e quadrinhos e também estou amando codar ❤️!</li>
-<li>🌱 Atualmente estudando Typescrypt, POO e SOLID</li>
+<li>🌱 Atualmente estudando MongoDB</li>
 
 ##
 
