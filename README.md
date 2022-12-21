@@ -77,9 +77,6 @@
 
 <h3>Onde me encontrar:</h3>
 <div align="center">
-	<a href="https://www.instagram.com/o_joaoemanuel" target="_blank">
-		<img height="30em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-	</a>
   <a href = "mailto:joaoe.pacheco@gmail.com">
 	  <img height="30em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 	</a>
