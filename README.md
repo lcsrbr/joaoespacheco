@@ -6,72 +6,112 @@
 <li>🌱 Atualmente estudando MongoDB</li>
 
 ##
-
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<table width="320px">
-  <tbody>
-    <tr valign="top">
-      <td width="80px" align="center">
-        <span><strong>Javascript</strong></span><br>
-        <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
-      </td>
-      <td width="80px" align="center">
-        <span><strong>HTML</strong></span><br>
-        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-      </td>
-      <td width="80px" align="center">
-        <span><strong>CSS</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-      </td>
-      <td width="80px" align="center">
-        <span><strong>React</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-      </td>
-      <td width="80px" align="center">
-        <span><strong>Jest</strong></span><br>
-        <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
-      </td>
-      <td width="80px" align="center">
-        <span><strong>RTL</strong></span><br>
-        <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
-      </td>
-      <td width="80px" align="center">
-        <span><strong>git</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-      </td>
-      <td width="80px" align="center" style="color:blue">
-        <span><strong>GitHub</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-      </td>
-      <td width="80px" align="center">
-        <span><strong>Mysql</strong></span><br>
-        <img style="color:Tomato;" height="32px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-      </td>
-      <td width="80px" align="center">
-        <span><strong>Node</strong></span><br>
-        <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-      </td>
-      <td width="80px" align="center">
-        <span><strong>Jest</strong></span><br>
-        <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
-      </td>
-      <td width="80px" align="center">
-        <span><strong>Redux</strong></span><br>
-        <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
-      </td>
-      <td width="80px" align="center">
-        <span><strong>ESLint</strong></span><br>
-        <img height="32px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
-      </td>
-    </tr>
-    <tr>
-      <td width="80px" align="center">
-        <span><strong>Docker</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div>
+<h3 align="center">Linguagens e Ferramentas:</h3>
+<h4>Front-End</h4>
+<div>
+  <img
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+    alt="HTML5"
+  >
+  <img
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+    alt="CSS3"
+  >
+  <img
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+    alt="JavaScript"
+  >
+  <img
+    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+    alt="React"
+  >
+  <img
+    src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"
+    alt="React Router"
+  />
+  <img
+    src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
+    alt="Redux"
+  />
+  <img
+    src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
+    alt="Sass"
+  />
+</div>
+	
+<h4>Back-End</h4>
+<div>
+  <img
+    src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+    alt="Node.js"
+  >
+  <img
+    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+    alt="TypeScript"
+  />
+  <img
+    src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
+    alt="Express.js"
+  />
+  <img
+    src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
+    alt="Docker"
+  />
+  <img
+    src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
+    alt="MySQL"
+  />
+  <img
+    src="https://img.shields.io/badge/Sequelize-1572b6?style=for-the-badge&logo=sequelize&logoColor=white"
+    alt="Sequelize"
+  />
+  <img
+    src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"
+    alt="Json Web Tokens"
+  />
+  <img
+    src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"
+    alt="Swagger"
+  />
+</div>
+	
+<h4>Testes</h4>	
+<div>
+  <img
+    src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
+    alt="Jest"
+  >
+  <img
+    src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red"
+    alt="Testing Library"
+  />
+  <img
+    src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"
+    alt="Mocha"
+  />
+  <img
+    src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white"
+    alt="Chai"
+  />
+  <img
+    src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon"
+    alt="Sinon.js"
+  />
+</div>
+	
+<h4>Atualmente estudando</h4>	
+<div>
+  <img
+    src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+    alt="MongoDB"
+  />
+  <img
+    src="https://img.shields.io/badge/Mongoose-white?style=for-the-badge&logo=mongodb&logoColor=7E3021"
+    alt="Mongoose"
+  />
+</div>
+</div>
 
 ##
 
