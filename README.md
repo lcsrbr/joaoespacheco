@@ -1,5 +1,7 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Olá! Eu sou o João, seja bem vindo(a)!</h1>
 
+<img align="right" src="images/midjourney-programming.png" alt="developer room" width="250px">
+
 <li>🚀 Em transição de carreira para a área de técnologia</li>
 <li>👨🏼‍🎓 Estudante de desenvolvimento web pela Trybe</li>
 
