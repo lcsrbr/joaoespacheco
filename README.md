@@ -1,7 +1,6 @@
-<div background-color="#2A415B">
-<img border-radius="25%" align="right" src="images/midjourney-programming-removebg.png" alt="developer room" width="400px">
-
 <h1 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Olá! Seja bem vindo(a)!</h1>
+
+<img align="right" src="images/midjourney-programming-removebg.png" alt="developer room" width="350px">
 
 ```js
 const name = 'João Emanuel Soares Pacheco';
@@ -161,5 +160,4 @@ const skills =
   <a href="https://github.com/joaoespacheco?tab=followers">
 	  <img height="30em" src="https://img.shields.io/github/followers/joaoespacheco?      label=Followers&style=social" alt="GitHub Badge">
   </a>
-</div>
 </div>
