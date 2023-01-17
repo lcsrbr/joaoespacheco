@@ -16,7 +16,8 @@ const skills =
   FrontEnd: ['HTML', 'CSS', 'Javascript', 'React', 'Sass'],
   BackEnd: ['Node.js', 'Typescript', 'Express.js', 'MySQL', 'Sequelize'],
   Tests: ['Jest', 'Testing Library', 'Mocha', 'Chai', 'Sinon'],
-  Knowledge: ['AWS', 'Docker Container', 'Linux', 'macOS'],
+  Others: ['Git', 'GitHub', 'Docker'],
+  Knowledge: ['TDD', 'SOLID', 'POO', 'API RESTful', MSC],
 }
 ```
 </div>
@@ -71,10 +72,6 @@ const skills =
     alt="Express.js"
   />
   <img
-    src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
-    alt="Docker"
-  />
-  <img
     src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
     alt="MySQL"
   />
@@ -113,6 +110,16 @@ const skills =
   <img
     src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon"
     alt="Sinon.js"
+  />
+</div>
+	
+<h4>Outros</h4>	
+<div>
+  <img alt="GIT" title="GIT" src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05032" />
+	<img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+	<img
+    src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
+    alt="Docker"
   />
 </div>
 	
