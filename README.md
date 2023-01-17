@@ -1,9 +1,11 @@
-<h1 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Olá! Seja bem vindo(a)!</h1>
+<img align="right" src="images/midjourney-programming-removebg.png" alt="developer room" width="450px">
 
-<img align="right" src="images/midjourney-programming-removebg.png" alt="developer room" width="350px">
+<div>
+<h1 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Olá! Seja bem vindo(a)!</h1>
 
 ```js
 const name = 'João Emanuel Soares Pacheco';
+const status = ["full stack web developer", "Tryber student"]
 
 const status = 
 { 
@@ -17,6 +19,7 @@ const skills =
   Knowledge: ['AWS', 'Docker Container', 'Linux', 'macOS'],
 }
 ```
+</div>
 
 ##
 <div>
