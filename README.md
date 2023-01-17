@@ -1,7 +1,7 @@
-<img align="right" src="images/midjourney-programming-removebg.png" alt="developer room" width="450px">
+<h1 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Olá! Seja bem vindo(a)!</h1>
 
 <div>
-<h1 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Olá! Seja bem vindo(a)!</h1>
+<img align="right" src="images/midjourney-programming-removebg2.png" alt="developer room" width="350px">
 
 ```js
 const name = 'João Emanuel Soares Pacheco';
