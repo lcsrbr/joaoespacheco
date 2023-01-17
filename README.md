@@ -1,5 +1,5 @@
 <div background-color="#2A415B">
-<img border-radius="25%" align="right" src="images/midjourney-programming.png" alt="developer room" width="400px">
+<img border-radius="25%" align="right" src="images/midjourney-programming-removebg.png" alt="developer room" width="400px">
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Olá! Seja bem vindo(a)!</h1>
 
