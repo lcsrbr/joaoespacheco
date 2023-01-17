@@ -1,9 +1,23 @@
-<h1 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Olá! Eu sou o João, seja bem vindo(a)!</h1>
+<div background-color="#2A415B">
+<img border-radius="25%" align="right" src="images/midjourney-programming.png" alt="developer room" width="400px">
 
-<img align="right" src="images/midjourney-programming.png" alt="developer room" width="250px">
+<h1 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Olá! Seja bem vindo(a)!</h1>
 
-<li>🚀 Em transição de carreira para a área de técnologia</li>
-<li>👨🏼‍🎓 Estudante de desenvolvimento web pela Trybe</li>
+```js
+const name = 'João Emanuel Soares Pacheco';
+
+const status = 
+{ 
+  learning : ['MongoDB', 'Mongoose'],
+}
+const skills = 
+{
+  FrontEnd: ['HTML', 'CSS', 'Javascript', 'React', 'Sass'],
+  BackEnd: ['Node.js', 'Typescript', 'Express.js', 'MySQL', 'Sequelize'],
+  Tests: ['Jest', 'Testing Library', 'Mocha', 'Chai', 'Sinon'],
+  Knowledge: ['AWS', 'Docker Container', 'Linux', 'macOS'],
+}
+```
 
 ##
 <div>
@@ -147,4 +161,5 @@
   <a href="https://github.com/joaoespacheco?tab=followers">
 	  <img height="30em" src="https://img.shields.io/github/followers/joaoespacheco?      label=Followers&style=social" alt="GitHub Badge">
   </a>
-</div> 
+</div>
+</div>
