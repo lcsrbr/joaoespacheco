@@ -7,14 +7,17 @@
 const name = 'João Emanuel Soares Pacheco';
 const status = ["full stack web developer", "Tryber student"]
 
-const status = 
+const activities = 
 { 
   learning : ['MongoDB', 'Mongoose'],
 }
 const skills = 
 {
   FrontEnd: ['HTML', 'CSS', 'Javascript', 'React', 'Sass'],
-  BackEnd: ['Node.js', 'Typescript', 'Express.js', 'MySQL', 'Sequelize'],
+  BackEnd: {
+    Tools: ['Node.js', 'Typescript', 'Express.js'],
+    Database: ['MySQL', 'Sequelize'],
+  },
   Tests: ['Jest', 'Testing Library', 'Mocha', 'Chai', 'Sinon'],
   Others: ['Git', 'GitHub', 'Docker'],
   Knowledge: ['TDD', 'SOLID', 'POO', 'API RESTful', MSC],
